@@ -1,0 +1,164 @@
+
+body{
+ background: #F0F0F0;
+position: absolute;
+width: 925px;
+height: 1825px;
+left: 500px;
+top: 0px;
+font-family: "Roboto";
+}
+
+h1, h2, h3{
+    margin: 0;
+    font-size: 16px;
+    
+}
+
+*{
+    font-weight: 400;
+}
+
+#title {
+color: #FF6A28;
+color: #FF6A28;
+text-transform: uppercase;
+font-family: "Roboto";
+font-weight: 700;
+font-size: 20px;
+}
+
+.box{
+    background-color: #ffff;
+    padding-left: 27px;
+    padding-right: 27px;
+    padding-bottom: 12px;
+    padding-top: 20px;
+    width: fit-content;
+    border-radius: 5px;
+   
+   
+}
+
+.sub-title{
+    color: #61656D;
+    font-weight: 400;
+    font-size: 16px;
+    margin-bottom: 14px;   
+}
+
+.title-2{
+    color: #FF6A28;
+    justify-content: center;
+    align-items: center;
+    margin-left: 344px;
+    margin-right: 316px;
+    margin-bottom: 16px;
+
+}
+
+.info-box{
+    background-color: #F0F0F0;
+    border-radius: 5px;
+    width: 118px;
+    height: 85px;
+    flex-direction: column;
+    margin-right: 8px;
+    justify-content: center;
+    align-items: center;
+    padding: 14px 28px;
+    align-items: center;
+    display: flex;
+
+}
+
+.container{
+    display: flex;
+    align-items: center;
+   
+
+    
+}
+
+.icon{
+width: 20px;
+align-items: center;
+justify-content: center;
+
+}
+
+.info-text{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    
+    
+
+}
+ 
+.image-principal{
+    margin-bottom: 10px;
+}
+
+.it-box{
+    background-color: #ffff;
+width: 798px;
+height: 335px;
+top: 635px;
+left: 321px;
+border-radius: 5px;
+color: #61656D;
+
+
+
+}
+
+.apron{
+    margin-left: 316px;
+    position: absolute;
+    
+ 
+}
+
+.wrapper{
+    background-color: #ffff;
+    width: 798px;
+    height: 335px;
+    top: 635px;
+    left: 321px;
+    border-radius: 5px;
+}
+
+.thing{
+    justify-content: center;
+    align-items: center;
+    margin-left: 275px;
+}
+
+.text{
+   width: 800px;
+   height: 34px;
+   justify-content: center;
+   align-items:center ;
+
+   background-color: #61656D;
+    
+}
+.teste{
+    justify-content: center;
+    align-items: center;
+    margin-left: 280px;
+    color: #F0F0F0;
+    font-weight: 400;
+    font-size: 25px;
+    font-family: "Roboto";
+    
+}
+.mark-title{
+   background-color:  #F0F0F0;
+   
+}
+
+.super{
+    justify-content: space-between;
+}
